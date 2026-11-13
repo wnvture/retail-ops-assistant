@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retail-ops-assistant"
+version = "0.1.0"
+description = "Local supplier-data checks and preparation of retail product files"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+excel = ["openpyxl>=3.1.5,<4"]
+
+[project.scripts]
+retail-ops = "retail_ops.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["retail_ops*"]
+
+[tool.setuptools.package-data]
+retail_ops = ["web/*", "demo/*"]

@@ -1,0 +1,8 @@
+sku;brand;color;size;name;gtin;ntin;material;country;source_url;checked_at
+SN-001;DEMO BRAND;black;42;Кроссовки Model One;4006381333931;DEMO-NTIN-001;текстиль;Китай;https://example.com/demo/sn-001;2026-11-13
+SN-002;DEMO BRAND;white;38;Кеды Model Two;5901234123457;;текстиль;Вьетнам;https://example.com/demo/sn-002;2026-11-13
+SN-003;DEMO BRAND;blue;40;Ботинки Model Three;012345678905;DEMO-NTIN-003;кожа;Китай;https://example.com/demo/sn-003;2026-11-13
+SN-004;DEMO BRAND;gray;41;Кроссовки Model Four;;;текстиль;Китай;https://example.com/demo/sn-004;2026-11-13
+SN-005;DEMO BRAND;black;40;Кеды Model Five;4601234567893;DEMO-NTIN-005;текстиль;Китай;https://example.com/demo/sn-005;2026-11-13
+SN-006;DEMO BRAND;red;37;Туфли Model Six;96385074;DEMO-NTIN-006;кожа;Китай;https://example.com/demo/sn-006;2026-11-13
+SN-007;DEMO BRAND;white;39;Кеды Model Seven;0123456789012;DEMO-NTIN-007;текстиль;Китай;https://example.com/demo/sn-007;2026-11-13

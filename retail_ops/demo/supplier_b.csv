@@ -1,0 +1,4 @@
+shipment_id;supplier;sku;brand;name;color;size;quantity;gtin;ntin;material;country
+DEMO-004;Поставщик A;SN-005;DEMO BRAND;Кеды Model Five;black;40;1;4601234567893;DEMO-NTIN-005;текстиль;Китай
+DEMO-005;Поставщик B;SN-006;DEMO BRAND;Туфли Model Six;red;37;1;96385074;DEMO-NTIN-006;кожа;Китай
+DEMO-006;Поставщик B;SN-007;DEMO BRAND;;white;39;1;0123456789012;DEMO-NTIN-007;текстиль;Китай
